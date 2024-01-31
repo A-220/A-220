@@ -1,3 +1,3 @@
-<div align="center">
-  ![animated](gifs/violet_evergarden.gif)
-</div>
+<p align="center">
+  <img src="gifs/violet_evergarden.gif" alt="animated" />
+</p>
